@@ -49,19 +49,14 @@ Ser la referencia global en la integración de inteligencia artificial y creativ
 | Nombre                    | Descripción                                           |
 |---------------------------|-------------------------------------------------------|
 | `pontai-assistants`       | Plantillas para asistentes virtuales y agentes de IA. |
-| `pontai-web-intelligent`  | Boilerplate de sitios web con funcionalidades IA.     |
-| `pontai-llm-finetuning`   | Scripts y ejemplos para personalizar modelos LLM.     |
-| `pontai-nlp-integration`  | Integraciones de NLP avanzadas en aplicaciones.       |
-| `pontai-omnichannel-bot`  | Flujos omnicanal automatizados con IA.                |
 
 ---
 
 ## 📞 Contacto
 
-- 🌐 Website: [www.pontai.com](https://www.pontai.com)
-- 📧 Email: contacto@pontai.com
-- 🐦 Twitter: [@PONTAI](https://twitter.com/PONTAI)
-- 🔗 LinkedIn: [PONT AI](https://linkedin.com/company/pontai)
+- 🌐 Website: [www.marketingpont.com](https://www.marketingpont.com)
+- 🐦 Twitter: [@marketingpont](https://x.com/marketingpont)
+- 🔗 LinkedIn: [PONT AI](https://ar.linkedin.com/company/pont-ai)
 
 ---
 
