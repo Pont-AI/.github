@@ -60,4 +60,4 @@ Ser la referencia global en la integración de inteligencia artificial y creativ
 
 ---
 
-> "La creatividad y la inteligencia artificial, unidas para llevar tu negocio más allá."
+> "Pont AI. Building Tomorrow."
