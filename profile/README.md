@@ -48,7 +48,7 @@ Ser la referencia global en la integración de inteligencia artificial y creativ
 
 | Nombre                    | Descripción                                           |
 |---------------------------|-------------------------------------------------------|
-| `pontai-assistants`       | Plantillas para asistentes virtuales y agentes de IA. |
+| `cli-chat-mcp`            | Dev-tool para optimizar integración de LLMs con MCPs. |
 
 ---
 
